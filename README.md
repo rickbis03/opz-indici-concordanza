@@ -1,7 +1,7 @@
 # La mappa degli accordi — versione interattiva
 
 Le quattro griglie e i quattro indici di concordanza del progetto
-*Orizzonti Politici*, in una pagina sola e senza dipendenze: si apre,
+*Indice di concordanza tra coalizioni* per Orizzonti Politici, in una pagina sola e senza dipendenze: si apre,
 si passa il puntatore sulle celle e ogni posizione porta alla sua fonte.
 
 - **Dati al 9 ottobre 2026**
